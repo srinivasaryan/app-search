@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.tab-text {
+  margin: 14px;
+  font-size: 18px;
+}
+.tab-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.tab-border {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
